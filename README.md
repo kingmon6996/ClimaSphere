@@ -20,10 +20,10 @@
 ---
 
 <div align="center">
-  <a href="https://climasphere.aretium.xyz">
+  <a href="https://climasphere.aretium.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Website-0099ff?style=for-the-badge" alt="Website Button" />
   </a>
-  <a href="mailto:deadpoolroy2006@gmail.com">
+  <a href="mailto:deadpoolroy2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge" alt="Contact Button" />
   </a>
 </div>
