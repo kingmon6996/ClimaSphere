@@ -20,6 +20,28 @@
 ---
 
 <div align="center">
+
+### Real-Time Data
+
+</div>
+<div align="center">
+  <h4>Experience hyper-accurate, real-time forcasts powered by advanced data models and geospatical analytics</h4>
+</div>
+
+---
+
+<div align="center">
+
+### Visual Interface
+
+</div>
+<div align="center">
+  <h4>ClimaSphere delivers temperature trends, air quality insights, and live radar visualizations — all in one sleek dashboard</h4>
+</div>
+
+---
+
+<div align="center">
   <a href="https://climasphere.aretium.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Website-0099ff?style=for-the-badge" alt="Website Button" />
   </a>
